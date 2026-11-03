@@ -6,3 +6,4 @@ Yahoo Finance 2: https://rapidapi.com/sparior/api/yahoo-finance15/
 Option Chain: https://rapidapi.com/mpeng/api/option-chain/
 Finn Hub: https://rapidapi.com/Finnhub/api/finnhub-realtime-stock-price/
 Stock Twits: https://rapidapi.com/stocktwits/api/stocktwits/
+Bucketlist Dream of the Day (travel and experience inspiration): https://bucketlist.nl/brand/droom-van-de-dag.openapi.json
